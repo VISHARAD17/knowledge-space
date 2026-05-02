@@ -1,3 +1,20 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+.page {
+  max-width: 2000px !important; // increase overall page width
+}
+
+// Increase left sidebar width by 50%
+@media (min-width: 800px) {
+  .page > #quartz-body {
+    grid-template-columns: 480px auto !important; // 320px * 1.5 = 480px
+  }
+  
+  @media (min-width: 1200px) {
+    .page > #quartz-body {
+      grid-template-columns: 480px auto 380px !important;
+    }
+  }
+}

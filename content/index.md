@@ -1,11 +1,9 @@
 ---
-title: Knowledge Space
+title: Notes 
 ---
 
-# Welcome to my Knowledge Space
-
-Personal notes on DSA, system design, and programming.
-
-## Topics
+Personal notes on DSA, system design, and general programming.
 
 - [[DSA/index|Data Structures & Algorithms]]
+-  ffs
+

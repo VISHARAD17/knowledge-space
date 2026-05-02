@@ -4,14 +4,7 @@ title: Data Structures & Algorithms
 
 # Data Structures & Algorithms
 
-## Topics
+- [[DSA/data-structure/index| Data structures]]
+- [[DSA/algorithms/index| Algorithms]]
 
-- [[data-structure/index|Data Structures]]
 
-## Arrays & Hashing
-
-- [[two-sum|Two Sum]]
-
-## Sliding Window
-
-- [[best-time-to-buy-stock|Best Time to Buy Stock]]
