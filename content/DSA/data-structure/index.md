@@ -2,4 +2,3 @@
 title: Data Structures
 ---
 
-content
