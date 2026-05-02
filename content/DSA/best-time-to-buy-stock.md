@@ -44,5 +44,5 @@ public int maxProfit(int[] prices) {
 
 ## Edge Cases
 
-- [ ] All decreasing prices (return 0)
-- [ ] Single element array
+- All decreasing prices (return 0)
+- Single element array
